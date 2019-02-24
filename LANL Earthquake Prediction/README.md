@@ -1,4 +1,4 @@
-# nyc-taxi
+# LANL Earthquake Prediction
 
 
 ## Overview
