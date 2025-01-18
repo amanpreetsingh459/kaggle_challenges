@@ -1,7 +1,6 @@
 # Google - Unlock Global Communication with Gemma
 
 ## Content
-
 * [Overview](#overview)
 * [Quick start](#quick-start)
 * [Download the model](#download-the-model)
